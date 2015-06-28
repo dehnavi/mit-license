@@ -269,3 +269,7 @@ super. Just create a new theme and send me a pull request.
 And of course:
 
 MIT: http://rem.mit-license.org
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dehnavi/mit-license/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
